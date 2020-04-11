@@ -17,8 +17,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "react": "16.11.0",
-    "react-native": "0.62.2",
+    "react": "16.9.x",
+    "react-native": "0.61.x",
     "react-native-keyevent": "^0.2.7"
   },
   "devDependencies": {
